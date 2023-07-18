@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, online games, interacting with people on discord
 - 🌱 I’m currently learning C++ on learncpp.com and webdevelopment on Odin Project. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on my discord ID :Kitshaar
+- 📫 You can reach me on my discord ID :Kitshaar
 
 <!---
 Kitshaar/Kitshaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
