@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kitshaar
 - 👀 I’m interested in programming, online games, interacting with people on discord
-- 🌱 I’m currently learning C++ on learncpp.com and webdevelopment on Odin Project. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently in my final year of Bachelor of Computer Application degree. 
+- 💞️ I’m looking to collaborate on Springboot applications. 
 - 📫 You can reach me on my discord ID :Kitshaar
 
 <!---
